@@ -1,0 +1,52 @@
+#contentsMenu{
+    margin: 5vh 0 10vh 2vw;
+    flex-direction: column;
+    width: 40%;
+}
+
+#contentsMenu button{
+    min-width: 97%;
+}
+
+#contents{
+    color: grey;
+    border-color: grey;
+}
+
+#pageContain{
+    text-align: -webkit-center;
+    margin-top: 5vh;
+    padding-left: 0;
+}
+
+#cardContents{
+    height: fit-content;
+    width: fit-content;
+    width: 100%;
+    box-shadow: 9px 11px 20px 0px black;
+    justify-content: center;
+}
+
+#singleContent{
+    padding: 10vh 5vw 10vh 5vw;
+}
+
+#loading{
+    min-width: 80px;
+    min-height: 80px;
+}
+
+#contentsList{
+    margin-top: 5vh;
+    width: 85%;
+
+}
+
+#conteninerList{
+    text-align: -webkit-center;
+}
+
+#image{
+    max-height: 40vh;
+    max-width: fit-content;
+}

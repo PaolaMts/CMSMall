@@ -1,0 +1,40 @@
+
+
+.allForm .spinner-grow{
+    min-width: 80px;
+    min-height: 80px;
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+}
+
+#loading{
+    text-align: center;
+}
+
+.allForm h1{
+    
+   margin: 2vh 0 5vh 2vw;    
+}
+
+#delete, #ok{
+    margin-left: 2vw;
+}
+
+#allBlocks{
+    width: 98vw;
+    margin-bottom: 5vh;
+}
+
+#main, #date{
+    justify-content: center;
+}
+#pub, #create,#author, #title{
+    width: 47vw;
+}
+
+#author,#create{
+    width: 43vw;
+    margin-right: 5vw;
+}
+
+

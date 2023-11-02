@@ -1,0 +1,119 @@
+#input-group-dropdown-1 {
+    max-height: 38px;
+    margin-right: 1vw;
+}
+
+.edit {
+    background-color: rgb(165, 238, 251);
+    opacity: 70%;
+    height: fit-content;
+    width: 99%;
+    align-self: center;
+}
+
+#inputGroup {
+    width: 45vw;
+}
+
+#type{
+    text-transform: capitalize;
+}
+
+#cross {
+    border-radius: 100%;
+    height: 27px;
+    width: 27px;
+    margin-left: 2%;
+    align-self: center;
+    font-size: x-small;
+}
+
+#allInputBlocks {
+    margin-left: 5vw;
+    align-items: center;
+}
+
+#add {
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    align-self: end;
+    margin: 0 1vw 5vh 2vw;
+}
+
+
+#images,
+#blocks {
+    box-shadow: 10px 7px 11px grey;
+
+}
+
+#singleCardImage {
+    opacity: 40%;
+}
+
+#singleCardImage:hover {
+    opacity: 100%;
+}
+
+#images {
+    padding: 5px;
+    width: 35vw;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#singleCardImage,
+#selectImage {
+    justify-content: center;
+    align-items: center;
+    height: 14vh;
+    border: none;
+    width: 9vw;
+}
+
+#singleImage {
+    cursor: pointer;
+    height: 12vh;
+    width: 8vw;
+}
+
+#titles {
+    height: 40px;
+    width: 38vw;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+    align-self: center;
+}
+
+
+#blocks {
+    width: 40vw;
+    height: fit-content;
+    padding: 10px;
+    margin-left: 2vw;
+    text-align: justify;
+    text-align-last: center;
+}
+
+#singleBlock {
+    min-height: fit-content;
+    text-align: -webkit-center;
+    margin-bottom: 10px;
+}
+
+#singleBlock .col {
+    padding: 5px;
+}
+
+#singleBlock button {
+    border: none;
+}
+
+#singleBlock img {
+    height: 35px;
+    width: 4vw;
+}

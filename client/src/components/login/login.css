@@ -1,0 +1,20 @@
+#loginCard {
+    height: 60vh;
+    width: 35vw;
+    justify-content: space-evenly;
+    align-items: center;
+    box-shadow: grey 8px 9px 14px 0px;
+    color: white;
+    text-align: -webkit-left;
+    background: linear-gradient(160deg, rgb(13, 203, 239), 60%, rgb(0 53 91));
+    border: none;
+}
+
+#login {
+    text-align: -webkit-center;
+    margin-top: 10vh;
+}
+
+#loginCard form{
+    width: 30vw;
+}

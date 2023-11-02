@@ -1,0 +1,40 @@
+.cmsTable{
+    margin-left: 1vw;
+    width:"-webkit-fill-available";
+    margin-top: 5vh;
+}
+
+.cmsTable table{
+    width: 98%;
+}
+
+.cmsTable input{
+    cursor: pointer;
+}
+
+.cmsTable button{
+    border-radius: 50%;
+}
+
+.cmsTable .spinner-grow{
+    
+    min-width: 80px;
+    min-height: 80px;
+    margin-top: 25vh;
+}
+
+.cmsTable tr{
+    text-align-last: left;
+
+}
+
+.cmsTable .table-responsive{
+    display: block;
+    text-align-last: center;
+    
+
+}
+
+.deleted{
+    --bs-table-active-bg: rgba(255, 186, 186, 0.593);
+}
